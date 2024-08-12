@@ -1,6 +1,6 @@
 ## meu nome é, Vitor 
 
-- sou estudante  do [alura](https//www.alura.com.br)
+- sou estudante  do [alura](https://www.alura.com.br)
 
 - utilizando esse site compartilhar meus projetos
 
